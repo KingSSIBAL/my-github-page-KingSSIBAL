@@ -51,12 +51,7 @@ This repository contains my single-page static portfolio website created for **C
    ```
 4. Go to your repository’s **Settings** → **Pages**.
 5. Under "Branch," select `main` and `/ (root)`.
-6. Save, and your website will be live at:
-
-   ```
-   https://cmsc100-1s2324.github.io/my-github-page-<username>
-   ```
-
+6. Save, and your website will be live
 ---
 
 ## 📚 Key Takeaways
@@ -65,3 +60,4 @@ This repository contains my single-page static portfolio website created for **C
 * Gained experience in **using Git and GitHub** for project management and version control.
 * Understood the process of **deploying a static website** through GitHub Pages.
 * Practiced designing a clean and responsive layout without external frameworks.
+* Github Co-pilot helped a lot. Content aware auto complete.
