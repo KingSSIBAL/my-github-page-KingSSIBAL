@@ -11,7 +11,7 @@ This repository contains my single-page static portfolio website created for **C
 
 ## 🌐 Live Website
 
-[Click here to view my portfolio](https://cmsc100-1s2324.github.io/my-github-page-<username>)
+[Click here to view my portfolio](https://kingssibal.github.io/my-github-page-KingSSIBAL/)
 
 ---
 
